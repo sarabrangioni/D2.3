@@ -1,5 +1,5 @@
 ## Meu projeto d2.3
 
-## Visualiza
+## Visualizar
 
-git@github.com:sarabrangioni/D2.3.git
+https://sarabrangioni.github.io/D2.3/
